@@ -34,7 +34,7 @@
 
 <br/>
 
-![Resumen de Actividad](https://img.shields.io/badge/Status-Activo_aprendiendo_Backend-blueviolet?style=for-the-badge)
+![Resumen de Actividad](https://img.shields.io/badge/Status-Aprendiendo_Backend-blueviolet?style=for-the-badge)
 
 </div>
 
