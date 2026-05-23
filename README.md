@@ -5,7 +5,7 @@
 
 *"Sin importar que, sigue avanzando y haz lo que amas sin desistir"*
 
-[![Banner](https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)](https://github.com/AlfredoNavarroDev)
+[![Banner](AlfredoDev.png)](https://github.com/AlfredoNavarroDev)
 
 </div>
 
