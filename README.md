@@ -40,18 +40,18 @@
 
 ---
 
-### 📫 Contacto
+### 📫 Hablemos de código
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredont/)
+<a href="https://www.linkedin.com/in/alfredont/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredont1088@gmail.com?subject=Contacto%20desde%20GitHub)
 
-</div>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alfredont1088@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&text=NestJS%20Developer%20in%20Training&fontSize=20" />
 </div>
