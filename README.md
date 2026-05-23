@@ -5,7 +5,9 @@
 
 *"Sin importar que, sigue avanzando y haz lo que amas sin desistir"*
 
-[![Banner](AlfredoDev.png)](https://github.com/AlfredoNavarroDev)
+<div align="center">
+  <img src="AlfredoDev.png" width="230" style="border-radius: 15px;" alt="Alfredo Navarro Dev">
+</div>
 
 </div>
 
