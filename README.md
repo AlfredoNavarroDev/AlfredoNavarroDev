@@ -45,11 +45,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlfredoNavarroDev&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Alfredo" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoNavarroDev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+| ![Stats de Alfredo](https://github-readme-stats.vercel.app/api?username=AlfredoNavarroDev&show_icons=true&theme=tokyonight&count_private=true) | ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoNavarroDev&layout=compact&theme=tokyonight&hide_langs=html,css) |
+| :---: | :---: |
 
 </div>
 
