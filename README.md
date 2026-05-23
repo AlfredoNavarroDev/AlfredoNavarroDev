@@ -45,11 +45,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Alfredo" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlfredoNavarroDev&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Alfredo" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoNavarroDev&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 
 </div>
 
