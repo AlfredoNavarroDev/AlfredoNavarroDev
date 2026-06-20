@@ -5,9 +5,7 @@
 
 *"Sin importar que, sigue avanzando y haz lo que amas sin desistir"*
 
-<div align="center">
-  <img src="AlfredoDev.png" width="230" style="border-radius: 15px;" alt="Alfredo Navarro Dev">
-</div>
+<img src="https://chatgpt.com/s/m_6a360851f69c8191915999090de4981b" alt="Alfredo Navarro Dev">
 
 </div>
 
