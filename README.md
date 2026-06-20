@@ -40,18 +40,11 @@
 
 ---
 
-### 📫 Hablemos de código
-
-<div align="center">
+### 📫 Redes Sociales
 
 <a href="https://www.linkedin.com/in/alfredont/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-&nbsp;&nbsp;
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alfredont1088@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-</div>
